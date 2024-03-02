@@ -1,0 +1,204 @@
+.App {
+  text-align: center;
+}
+
+.image-container {
+  position: relative;
+  
+}
+
+.main-img {
+  width: 1000px;
+  height: 650px;
+  justify-content: center;
+  align-items: center;
+}
+.ground-img {
+  width: 1000px;
+  height: 650px;
+}
+
+.group1 {
+  position: absolute;
+  top: 10%;
+  left: 55%;
+  height: 25%; 
+}
+/* .group2{
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  height: 25%;
+} */
+.rectangle{
+  position: absolute;
+  top: 21%;
+  height: 30%;
+  left: 11%;
+}
+.rectangle1{
+  position: absolute;
+  top: 21%;
+  height: 30%;
+  left: 39%;
+}
+.rectangle2{
+  position: absolute;
+  top: 21%;
+  height: 30%;
+  left: 68%
+}
+.card{
+  position: absolute;
+  top: 21%;
+  height: 30%;
+  left: 39%;
+}
+.carda{
+  position: absolute;
+  top: 21%;
+  height: 20%;
+  left: 50%;
+}
+.cardb{
+  position: absolute;
+  top: 21%;
+  height: 20%;
+  left: 65%;
+}
+.cardc{
+  position: absolute;
+  top: 21%;
+  height:20%;
+  left: 80%;
+}
+.cardd{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 50%;
+}
+.carde{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 65%
+}
+.cardf{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 80%;
+}
+.card11{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 5%;
+}
+.card12{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 20%;
+}
+.card13{
+  position: absolute;
+  top: 42%;
+  height: 20%;
+  left: 35%;
+}
+.card14{
+  position: absolute;
+  top: 21%;
+  height: 20%;
+  left: 5%;
+}
+.card15{
+  position: absolute;
+  top: 21%;
+  height: 20%;
+  left: 20%;
+}
+.card16{
+  position: absolute;
+  top: 21%;
+  height:20%;
+  left: 35%;
+}
+.card1{
+  position: absolute;
+  top: 21%;
+  height: 20%;
+  left: 13.5%;
+
+}
+
+.text-overlay {
+  position: absolute;
+  top: 8rem;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  color: rgb(50, 148, 240);
+  font-size: 28px;
+}
+.text-1 {
+  position: absolute;
+  top: 8rem;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  color: rgb(50, 148, 240);
+  font-size: 28px;
+}
+.text-2{
+  position: absolute;
+  top: 8rem;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  color: rgb(50, 148, 240);
+  font-size: 28px;
+}
+.text-3 {
+  position: absolute;
+  top: 8rem;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  color: rgb(50, 148, 240);
+  font-size: 28px;
+}
+.group2{
+  position: absolute;
+  top: 5%;
+  left: 8%;
+  height: 12%;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+button img{
+  position: absolute;
+  left: 75%;
+  bottom: 12%;
+  height: 11%;
+  width: 20%;
+
+}
